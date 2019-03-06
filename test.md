@@ -161,6 +161,7 @@ Stream anime:
 - [Dramanote](http://www.dramanote.com/): not subtitles, but drama scripts, which you could still use for sentence mining
 - [JRPG scripts](https://www.reddit.com/r/LearnJapanese/comments/54haix/a_dump_of_jrpg_japanese_scripts/): scripts from a bunch of JRPGs, mainly Final Fantasy and Dragon Quest
 - [**Netflix jp subs**](https://mega.nz/#F!Yo8FhQBJ!Uoj0GbjA1RyiANp7NjHeVg)
+- [**Subs for dramas**](http://jpsubbers.web44.net/Japanese-Subtitles/): Subtitles for drama
 
 ## Manga
 
@@ -179,6 +180,7 @@ Stream anime:
 - [**news.kodansha.co.jp/comics**](http://news.kodansha.co.jp/comics)
 - [**osoroshiya**](https://osoroshiya.com/): spooky manga
 - [**13dl**](http://13dl.net/): raw manga, novels, magazines etc
+- [**itazuraneko**](https://itazuraneko.neocities.org/): lots of manga 
 
 ## Drama
 
@@ -232,12 +234,14 @@ Stream anime:
 - [BookLive](https://booklive.jp/): you can buy ebooks here, not sure if there's much free stuff though
 - [Marxist Internet Archive](https://www.marxists.org/nihon/index.htm): I dunno, this was on the spreadsheet so I kept it
 - [**yomou-syosetu**](https://yomou.syosetu.com/): Some novels
-
+- [**itazuraneko**](https://itazuraneko.neocities.org/library/manga/subete.html): light novels 
+- [**itazuraneko**](https://itazuraneko.neocities.org/library/cor.html): epub books 
 
 ## Visual Novels
 - [Visual Novel Recommendations](https://docs.google.com/document/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.unfw7eb41v3g): google doc full of information about a bunch of visual novels made by the visual novels subreddit I think
 - [Nyaa](https://nyaa.si/): you can probably find VNs here as well
 - [**visual novels disk**](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#): lots of visual novels
+- [**anime-sharing**](http://www.anime-sharing.com/forum/): This is a website filled with visual novels (and other media) in Japanese to download. Not all of the links to download them work, but plenty do, and it's worth giving a shot. Some links are NSFW
 
 ## Dictionaries
 
@@ -304,11 +308,15 @@ Digital dictionaries:
 - [Matt's old blog](http://mattbonder.blog.fc2.com/): Matt used to post on this blog when he was AJATTing
 - [Premade subs2srs decks](http://japanesedecks.blogspot.de): Pre-made subs2srs decks. Useful if you can't be bothered downloading properly timed subs, although you should still make your own cards, just use the pictures and sentences from these decks
 - [Japanese Discord Servers](https://discha.net/): invite links to lots of Japanese discord servers
-## My own
 - [**FNN-NEWS**](http://www.nhk.or.jp/kokokoza/)
 - [**NHK-NEWS**](https://www.nhk.or.jp/)
 - [**Sanseido definitions**](https://github.com/weirdalsuperfan/Sanseido-Definitions): automagically fill in definitions for sentence cards
 - [**jpop80ss**](http://jpop80ss.blogspot.com/): asian music
+- [**Grammar for natives**](https://itazuraneko.neocities.org/horon/bunpou/nihonjin.html):Japanese grammar, in Japanese, for natives. 
+- [**itazuraneko**](https://itazuraneko.neocities.org/library/shousetu.html): anki decks 
+- [**Anki decks**](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks):sentence bank mediafire it has even more stuff than britvsjapan
+- [**database of compound japanese verbs**](https://db4.ninjal.ac.jp/vvlexicon/db/): A database of compound Japanese verbs, has defintions of tons of words, ones that I couldnt find in regular dictionaries in english and in japanese
+- [**play japanese when silence**](https://www.youtube.com/watch?v=BUyzpLihfzE): Script to play sound when there is silence
 
 ## NSFW
 - [**Some eroges**](http://dou.erokuni.net/)
