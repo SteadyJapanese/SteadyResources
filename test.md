@@ -23,9 +23,6 @@
 
 ## Anime
 
-Anime is a great source of immersion material as well as sentences for mining. Slice of life anime are especially good for beginners as they often use simple vocabulary and typically have fun, light-hearted stories that are easy to follow.
-That being said, the thing that makes anime so great is that there are so many different shows about so many different things that there's something for nearly everyone.
-
 Download anime:
 - [Nyaa](https://nyaa.si/): a torrent site that has many copies of a lot of anime, although the older and more obscure ones might not have any seeders. You can find anything from low quality to incredibly high quality rips on here, so it's worth looking around.
 - [HorribleSubs](https://horriblesubs.info/): a fansub group that releases high quality rips quite soon after the episodes air (obviously turn off the subtitles). They have both torrent and direct download options. You can usually find most of their torrents on Nyaa as well, including batch downloads for entire seasons of shows.
