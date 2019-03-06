@@ -1,15 +1,6 @@
 
 <!-- TOC -->
-- [Important Links](#important-links)
-    - [AJATT Table of Contents](#ajatt-table-of-contents)
-    - [Matt Vs Japan's Youtube Channel](#matt-vs-japans-youtube-channel)
-    - [The official MIA website](#the-official-mia-website)
-    - [AJATT/MIA Timeline](#ajattmia-timeline)
-    - [Anki](#anki)
-    - [Remembering The Kanji (RTK)](#remembering-the-kanji-rtk)
-    - [Japanese Input Method Editor (IME)](#japanese-input-method-editor-ime)
-    - [Tae Kim's Grammar Guide](#tae-kims-grammar-guide)
-- [Anime](#anime)
+- [News](#News)
 - [Subtitles](#subtitles)
 - [Manga](#manga)
 - [Drama](#drama)
@@ -28,24 +19,9 @@
 <!-- /TOC -->
 
 
-## Anime
+## News
 
-Anime is a great source of immersion material as well as sentences for mining. Slice of life anime are especially good for beginners as they often use simple vocabulary and typically have fun, light-hearted stories that are easy to follow.
-That being said, the thing that makes anime so great is that there are so many different shows about so many different things that there's something for nearly everyone.
-
-Download anime:
-- [Nyaa](https://nyaa.si/): a torrent site that has many copies of a lot of anime, although the older and more obscure ones might not have any seeders. You can find anything from low quality to incredibly high quality rips on here, so it's worth looking around.
-- [HorribleSubs](https://horriblesubs.info/): a fansub group that releases high quality rips quite soon after the episodes air (obviously turn off the subtitles). They have both torrent and direct download options. You can usually find most of their torrents on Nyaa as well, including batch downloads for entire seasons of shows.
-- [anisource](https://asnet.pw/): an aggregate site for high quality raws from Raws-4U, スカー Raws and Leopard-Raws
-- [AnimeOut](https://www.animeout.xyz/): free downloads of lots of anime, with batch links as well, although some old encodings may have hardcoded English subs
-- [B9GOOD](http://b9good.com/): stream recently aired anime, also had download links
-
-Stream anime:
-- [Netflix](https://www.netflix.com): a subscription-based, on-demand streaming service that has a good selection of anime to watch, depending on where you live. If you want to get access to A LOT more anime on netflix than you normally can, you can [use a VPN](https://www.youtube.com/watch?v=oKroCjsD6xg) to trick Netflix into thinking you're in Japan.
-- [Daiweeb - Terakoya](https://www.daiweeb.org/terakoya): a free streaming site that has a good selection of anime with japanese subtitles, however you can't turn off the subtitles entirely which is kind of annoying.
-- [Animelon](https://animelon.com/): a free streaming site that has a good selection of anime with the added bonus of having japanese subtitles, however the subtitles can be buggy sometimes.
-- [anjsub](https://www.anjsub.com/): A free streaming site that has decent list of anime with japanese subtitles. There is also an interactive transcript next to the videos so you can skip around to certain lines whenever you want.
-- [B9GOOD](http://b9good.com/): stream recently aired anime, also had download links
+- [FNN-NEWS](https://www.fnn-news.com/): stream recently aired anime, also had download links
 
 ## Subtitles
 
