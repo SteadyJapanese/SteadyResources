@@ -104,6 +104,9 @@ As of the 18th of July 2018, the latest editions of RTK are as follows:
 
 RTK1 and RTK3 are essential to learning kanji, so buying a copy is a good idea, however if you ask nicely on the discord you may be able to get some nice PDF versions.
 
+-[**Kanji list**](http://aiki.info/kanji/kanji-learn.pdf)
+-[**Primitive list**](http://aiki.info/kanji/kanji-parts.pdf)
+
 ### Japanese Input Method Editor (IME)
 
 Download and install [Google's Japanese IME](https://www.google.co.jp/ime/). This is really only useful for Windows users because it's better than the Microsoft Japanese IME, and the Mac Japanese IME is pretty good already. This is the tool you will use to type Japanese on your computer. Some quick googling for `IME tips` or `IME hotkeys` should get you pretty familiar with it.
@@ -182,6 +185,7 @@ Stream anime:
 - [**osoroshiya**](https://osoroshiya.com/): spooky manga
 - [**13dl**](http://13dl.net/): raw manga, novels, magazines etc
 - [**itazuraneko**](https://itazuraneko.neocities.org/): lots of manga 
+- [**bilingual manga**](https://bilingualmanga.com/): Read manga and switch japanese to english(and back) using a button.
 
 
 ## Drama
@@ -328,6 +332,8 @@ Digital dictionaries:
 - [**database of compound japanese verbs**](https://db4.ninjal.ac.jp/vvlexicon/db/): A database of compound Japanese verbs, has defintions of tons of words, ones that I couldnt find in regular dictionaries in english and in japanese
 - [**play japanese when silence**](https://www.youtube.com/watch?v=BUyzpLihfzE): Script to play sound when there is silence
 - [**edewakaru**](http://www.edewakaru.com/):pretty cool site that explains grammar concepts, vocabs and expressions with comics and example sentences (it's all in Japanese, I'm not sure if it's meant for kids or foreigners, most likely foreigners cause some of the stuff they explain should be obvious to natives, even children).
+- [**Free download JP games**](https://www.freem.ne.jp/win/ranking/download/weekly): A page of free download Japanese games sorted weekly. 
+- [**Voracious**](https://voracious.app/): Media player that has built in lookup if subtitle highlighted and an option to import to anki.
 
 ## NSFW
 - [**Some eroges**](http://dou.erokuni.net/)
@@ -335,6 +341,9 @@ Digital dictionaries:
 ## Youtube channels
 - [**Try it**](https://www.youtube.com/channel/UCcj-cHmS0uD91MLjtdiN89Q): A channel with lots of school lessons for japanese people: math, physics, history, kanji and more
 - [**岡田斗司夫**](https://www.youtube.com/playlist?list=PL1TOJRTrkimL2_RoGQP7F6CdIdvWDOMSM): A guy that analyses anime etc.
+- [**ZENの演実況チャンネル**](https://www.youtube.com/channel/UCp5JwtIBwJXGwJbykklhzIA/playlists?disable_polymer=1): YouTube channel where a native Japanese player goes through visual novels, and reads the unspoken parts. Some NSFW material so be warned (or excited, who am I to judge).
+- [**slumberRabbit**](https://www.youtube.com/channel/UC0QG1-lM3ToDIEZ2NcG__Sg/playlists?shelf_id=49&sort=dd&view=50): If anyone is interested in Japanese dubs of games, but cannot afford them because Japanese imports can be expensive, this channel has some good stuff!
+
 
 ## Android apps
 Here is a bunch of android manga applications, each one gives you at least one free issue a day. A number if the apps have content overlaps, so you could use them to continue reading a single story when you finish your daily allotment of points for one app, or you could read stuff separately and do one story a day of a particular series in order to develop a daily reading habit . **You need JAPANESE google play account for the download**.
