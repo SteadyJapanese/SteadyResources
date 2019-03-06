@@ -142,6 +142,7 @@ Download anime:
 - [B9GOOD](http://b9good.com/): stream recently aired anime, also had download links
 
 Stream anime:
+- [**disgusting weeb**](http://dsgstng.com/): Streams live tv of anime, when there is no anime airing, they just play normal tv
 - [Netflix](https://www.netflix.com): a subscription-based, on-demand streaming service that has a good selection of anime to watch, depending on where you live. If you want to get access to A LOT more anime on netflix than you normally can, you can [use a VPN](https://www.youtube.com/watch?v=oKroCjsD6xg) to trick Netflix into thinking you're in Japan.
 - [Daiweeb - Terakoya](https://www.daiweeb.org/terakoya): a free streaming site that has a good selection of anime with japanese subtitles, however you can't turn off the subtitles entirely which is kind of annoying.
 - [Animelon](https://animelon.com/): a free streaming site that has a good selection of anime with the added bonus of having japanese subtitles, however the subtitles can be buggy sometimes.
@@ -187,7 +188,6 @@ Stream anime:
 - [**VIKI**](https://www.viki.com/explore?country=japan&type=series&language=ja): A small selection of drama. To turn off English subtitles and if you want Japanese subtitles, turn off learn mode in the video player options.
 
 ## TV Shows
-
 - [ForJoyTV](https://forjoytv.com/): Streaming service that allows you to watch I think any japanese TV channel (formerly known as FujiTVLive). You can make a free account and try it out for a day (or keep making free accounts every single day), otherwise you can buy subscriptions for varying amounts of time. Great value for money and you get access to pretty much every Japanese TV channel.
 - [AvistaZ](https://avistaz.to): Private torrent tracker with a wide selection of asian media. Lots of hard to find movies and TV shows in good quality most of the time. Sometimes they have open registrations but it's normally invite only. Some people on the discord server might have invites if you ask nicely.
 - [mhometheater](http://mhometheater.com/): lots of japanese media as well as dubs of western media
