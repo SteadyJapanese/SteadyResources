@@ -204,7 +204,6 @@ Stream anime:
 - [MioMio](http://www.miomio.tv/ent/japan/): TV shows of all kinds, not sure if they have a schedule or it's just random uploads
 - [BiliBili](https://space.bilibili.com/60958832/#/video?tid=0&page=1&keyword=&order=pubdate): chinese website with a bunch of TV shows
 - [FreshLive](https://freshlive.tv/): more TV shows
-- [9tsu](http://video.9tsu.com/): even more TV shows
 - [Nyaa](https://nyaa.si/): a torrent tracker that is primarily used for anime but probably has TV shows on it too
 - [**video.9tsu**](https://video.9tsu.com/): You can find Japanese Shows there
 
