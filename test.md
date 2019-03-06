@@ -204,6 +204,11 @@ Stream anime:
 - [JDownloader](http://jdownloader.org/) to download more than like 5GB a day or something
 - [AvistaZ](https://avistaz.to): Private torrent tracker with a wide selection of asian media. Lots of hard to find movies and tv shows in good quality most of the time. Sometimes they have open registrations but it's normally invite only. Some people on the discord server might have invites if you ask nicely.
 - [Nyaa](https://nyaa.si/): a torrent tracker that is primarily used for anime but has movies on it as well
+- [mhometheather](http://mhometheater.com/): A bunch of Japanese movies, and western movies with Japanese dubs.
+- [distantsunrise](http://distantsunrise.com/): This one has some horror movies with subs you can turn off.
+- [muryoueigadrama](https://muryoueigadrama.com/)
+- [muryoueiga](http://muryoueiga.site/)
+- [tissue-paper](https://tissue-paper.net/)
 
 ## Audio
 
@@ -308,10 +313,3 @@ Digital dictionaries:
 ## Podcast
 - [ひいきびいき](http://hkbk.fm/)
 - [まりもえお！](http://marimoeo.seesaa.net/):podcast website Khatz recommends (they update it till this day)
-
-## Movies
-- [mhometheather](http://mhometheater.com/): A bunch of Japanese movies, and western movies with Japanese dubs.
-- [distantsunrise](http://distantsunrise.com/): This one has some horror movies with subs you can turn off.
-- [muryoueigadrama](https://muryoueigadrama.com/)
-- [muryoueiga](http://muryoueiga.site/)
-- [tissue-paper](https://tissue-paper.net/)
