@@ -243,6 +243,7 @@ Stream anime:
 - [**yomou-syosetu**](https://yomou.syosetu.com/): Some novels
 - [**itazuraneko**](https://itazuraneko.neocities.org/library/manga/subete.html): light novels 
 - [**itazuraneko**](https://itazuraneko.neocities.org/library/cor.html): epub books 
+- [**Japanese grammar book**](https://books.google.es/books?id=l-C4H2sBJlEC&lpg=PP1&pg=PA120&redir_esc=y&hl=ja#v=onepage&q&f=false): It's fully **japanese** book explaining grammar.
 
 ## Visual Novels
 - [Visual Novel Recommendations](https://docs.google.com/document/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.unfw7eb41v3g): google doc full of information about a bunch of visual novels made by the visual novels subreddit I think
@@ -333,7 +334,7 @@ Digital dictionaries:
 
 ## Youtube channels
 - [**Try it**](https://www.youtube.com/channel/UCcj-cHmS0uD91MLjtdiN89Q): A channel with lots of school lessons for japanese people: math, physics, history, kanji and more
-- [**岡田斗司夫**](https://www.youtube.com/playlist?list=PL1TOJRTrkimL2_RoGQP7F6CdIdvWDOMSM): A bloke that analyses anime etc.
+- [**岡田斗司夫**](https://www.youtube.com/playlist?list=PL1TOJRTrkimL2_RoGQP7F6CdIdvWDOMSM): A guy that analyses anime etc.
 
 ## Android apps
 Here is a bunch of android manga applications, each one gives you at least one free issue a day. A number if the apps have content overlaps, so you could use them to continue reading a single story when you finish your daily allotment of points for one app, or you could read stuff separately and do one story a day of a particular series in order to develop a daily reading habit . **You need JAPANESE google play account for the download**.
@@ -345,9 +346,9 @@ Here is a bunch of android manga applications, each one gives you at least one f
 - [**マンガKING！**](https://play.google.com/store/apps/details?id=com.fuga.mangakingrevision.android)
 - [**マンガワン**]( https://play.google.com/store/apps/details?id=jp.co.comic.mangaone)
 - [**マンガ図書館Z**](https://play.google.com/store/apps/details?id=jp.co.jcomi.mangazapp)
-- [**少年ジャンプ＋ **](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus)
+- [**少年ジャンプ＋**](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus)
 - [**マンガZero**](https://play.google.com/store/apps/details?id=jp.inc.nagisa.mangapf)
-- [**pixivコミック **](https://play.google.com/store/apps/details?id=jp.pxv.android.manga)
+- [**pixivコミック**](https://play.google.com/store/apps/details?id=jp.pxv.android.manga)
 - [**ガンガンONLINE**](https://play.google.com/store/apps/details?id=com.ganganonline.ganganonline.a)
 - [**マンガPark**](https://play.google.com/store/apps/details?id=jp.co.hakusensha.mangapark)
 - [**マンガSTARS**](https://play.google.com/store/apps/details?id=asia.junglesky.mangastars.android)
