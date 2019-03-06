@@ -21,7 +21,8 @@
 
 ## News
 
-- [FNN-NEWS](https://www.fnn-news.com/): stream recently aired anime, also had download links
+- [FNN-NEWS](https://www.fnn-news.com/)
+- [NHK-NEWS](https://www.nhk.or.jp/)
 
 ## Subtitles
 
