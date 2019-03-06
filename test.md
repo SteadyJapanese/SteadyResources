@@ -30,6 +30,8 @@ Welcome to the Mass Immersion Approach (MIA) resources sheet! This page is the r
 - [Tools](#tools)
 - [Miscellaneous Links](#miscellaneous-links)
 - [My own](#my-own)
+- [NSFW](#nfsw)
+- [Podcast](#podcast)
 
 <!-- /TOC -->
 
@@ -169,6 +171,11 @@ Stream anime:
 - [BookLive](https://booklive.jp/): Buy manga and books, there's some free manga on it too
 - [sokuyomi](https://sokuyomi.jp/): I think this site might have some free manga on it, not sure though
 - [Puboo](http://p.booklog.jp/books?ch=0&): some free books and manga in ebook formats
+- [A-Z manga](http://www.a-zmanga.net/): download manga that you can't find on nyaa
+- [GANMA!](https://ganma.jp/): Apparently is a mainstream manga website, you can also download it for your phone. Lots of ecchi stuff.
+- [s-manga](http://www.s-manga.net/)
+- [news.kodansha.co.jp/comics](http://news.kodansha.co.jp/comics)
+- [osoroshiya](https://osoroshiya.com/): spooky manga
 
 ## Drama
 
@@ -218,6 +225,8 @@ Stream anime:
 - [Convert Aozora Bunko to MOBI](https://www.reddit.com/r/LearnJapanese/comments/1n0b3f/convert_aozora_bunko_books_to_kindle_paperwhite/): follow this guide to convert Aozora Bunko format books into MOBI so you can put them on a kindle (or use [calibre](#tools) to convert them to something else)
 - [BookLive](https://booklive.jp/): you can buy ebooks here, not sure if there's much free stuff though
 - [Marxist Internet Archive](https://www.marxists.org/nihon/index.htm): I dunno, this was on the spreadsheet so I kept it
+- [yomou-syosetu](https://yomou.syosetu.com/): Some novels
+
 
 ## Visual Novels
 - [Visual Novel Recommendations](https://docs.google.com/document/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.unfw7eb41v3g): google doc full of information about a bunch of visual novels made by the visual novels subreddit I think
@@ -263,13 +272,6 @@ Digital dictionaries:
 - [OJAD Recordings](http://www.gavo.t.u-tokyo.ac.jp/ojad/): Pitch accent and audio recordings (not for everything) of a lot of words from different lessons from a bunch of textbooks. While it's not worth going through the lessons for each textbook, it has a search engine that's pretty useful.
 - [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing): generate text-to-speech sentences with somewhat accurate pitch accent (don't assume it's correct)
 
-## Meditation
-
-Matt outlines the many benefits meditation has on language learning and life in general in [this](https://www.youtube.com/watch?v=dtf50B0e2N4) video.
-
-- [The Mind Illuminated (TMI)](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985): The meditation book that Matt recommends. You can get digital copies, but it's much nicer to have a physical book that you can flip through quickly so I would advise buying a copy. As the book contains many charts/illustrations, and in general is quite dense and technical, the audiobook version of the book is not recommended
-- [The Mind Illuminated: A Quick Reference to the Stages](https://docs.google.com/spreadsheets/d/1I9i4eIJicQhZRR7-JE6zYUdZ86Up9NoqPQeYTzdsKLE/edit#gid=0)
-- [The Mind Illuminated Subreddit](https://www.reddit.com/r/TheMindIlluminated/): great place to read tips for getting through the various stages of TMI
 
 ## Tools
 - [subs2srs](http://subs2srs.sourceforge.net/): Takes video files and subtitle files and cards with screenshots and/or audio for each line in the sub file. Also useful for batch extracting audio from videos.
@@ -299,3 +301,17 @@ Matt outlines the many benefits meditation has on language learning and life in 
 - [FNN-NEWS](http://www.nhk.or.jp/kokokoza/)
 - [NHK-NEWS](https://www.nhk.or.jp/)
 - [Sanseido definitions](https://github.com/weirdalsuperfan/Sanseido-Definitions): automagically fill in definitions for sentence cards
+
+## NSFW
+- [Some eroges](http://dou.erokuni.net/)
+
+## Podcast
+- [ひいきびいき](http://hkbk.fm/)
+- [まりもえお！](http://marimoeo.seesaa.net/):podcast website Khatz recommends (they update it till this day)
+
+## Movies
+- [mhometheather](http://mhometheater.com/): A bunch of Japanese movies, and western movies with Japanese dubs.
+- [distantsunrise](http://distantsunrise.com/): This one has some horror movies with subs you can turn off.
+- [muryoueigadrama](https://muryoueigadrama.com/)
+- [muryoueiga](http://muryoueiga.site/)
+- [tissue-paper](https://tissue-paper.net/)
