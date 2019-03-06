@@ -29,6 +29,7 @@ Welcome to the Mass Immersion Approach (MIA) resources sheet! This page is the r
 - [Meditation](#meditation)
 - [Tools](#tools)
 - [Miscellaneous Links](#miscellaneous-links)
+- [My own](#my-own)
 
 <!-- /TOC -->
 
@@ -294,3 +295,7 @@ Matt outlines the many benefits meditation has on language learning and life in 
 - [Matt's old blog](http://mattbonder.blog.fc2.com/): Matt used to post on this blog when he was AJATTing
 - [Premade subs2srs decks](http://japanesedecks.blogspot.de): Pre-made subs2srs decks. Useful if you can't be bothered downloading properly timed subs, although you should still make your own cards, just use the pictures and sentences from these decks
 - [Japanese Discord Servers](https://discha.net/): invite links to lots of Japanese discord servers
+## My own
+- [FNN-NEWS](http://www.nhk.or.jp/kokokoza/)
+- [NHK-NEWS](https://www.nhk.or.jp/)
+- [Sanseido definitions](https://github.com/weirdalsuperfan/Sanseido-Definitions): automagically fill in definitions for sentence cards
