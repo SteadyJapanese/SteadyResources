@@ -31,7 +31,8 @@ Welcome to the Mass Immersion Approach (MIA) resources sheet! This page is the r
 - [Miscellaneous Links](#miscellaneous-links)
 - [My own](#my-own)
 - [NSFW](#nfsw)
-- [Podcast](#podcast)
+- [Youtube channels](#youtube-channels)
+- [Android apps](#android-apps)
 
 <!-- /TOC -->
 
@@ -182,12 +183,14 @@ Stream anime:
 - [**13dl**](http://13dl.net/): raw manga, novels, magazines etc
 - [**itazuraneko**](https://itazuraneko.neocities.org/): lots of manga 
 
+
 ## Drama
 
 - [AvistaZ](https://avistaz.to): Private torrent tracker with a wide selection of asian media. Lots of hard to find movies and tv shows in good quality most of the time. Sometimes they have open registrations but it's normally invite only. Some people on the discord server might have invites if you ask nicely.
 - [Google drive](https://drive.google.com/drive/mobile/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE): Google drive folder full of drama. I think these are recorded straight from TV, so the file sizes are quite large relative to their length. Some of the files are password protected, ask in the Discord server if you want the password.
 - [Nyaa](https://nyaa.si/): Not as good for dramas as it is for anime and manga, but you can still find some dramas on there
 - [**VIKI**](https://www.viki.com/explore?country=japan&type=series&language=ja): A small selection of drama. To turn off English subtitles and if you want Japanese subtitles, turn off learn mode in the video player options.
+- [**Raredoramas**](https://raredoramas.info/):**Rare** and **old** doramas, jdramas and movies download
 
 ## TV Shows
 - [ForJoyTV](https://forjoytv.com/): Streaming service that allows you to watch I think any japanese TV channel (formerly known as FujiTVLive). You can make a free account and try it out for a day (or keep making free accounts every single day), otherwise you can buy subscriptions for varying amounts of time. Great value for money and you get access to pretty much every Japanese TV channel.
@@ -199,6 +202,7 @@ Stream anime:
 - [FreshLive](https://freshlive.tv/): more TV shows
 - [9tsu](http://video.9tsu.com/): even more TV shows
 - [Nyaa](https://nyaa.si/): a torrent tracker that is primarily used for anime but probably has TV shows on it too
+- [**video.9tsu**](https://video.9tsu.com/): You can find Japanese Shows there
 
 ## Movies
 
@@ -212,6 +216,7 @@ Stream anime:
 - [**muryoueigadrama**](https://muryoueigadrama.com/)
 - [**muryoueiga**](http://muryoueiga.site/)
 - [**tissue-paper**](https://tissue-paper.net/)
+- [**Japan encodings**](https://japanencodings.blogspot.com/): Download western movies with japanese dub
 
 ## Audio
 
@@ -222,6 +227,8 @@ Stream anime:
 - [15 minute audiobook samples](http://www2.jfn.co.jp/library/pod/)
 - [Matt's music playlist](https://www.youtube.com/playlist?list=PLT9cfjU1ykbM8dzxgifFEN7qZJtQNpEBJ)
 - [inAudible](https://pirateproxy.mx/torrent/18347779/inAudible_1.97_-_Convert_Audible_audiobooks_and_remove_DRM): software for converting and removing DRM from audiobooks download from Audible
+- [**ひいきびいき**](http://hkbk.fm/)
+- [**まりもえお！**](http://marimoeo.seesaa.net/):podcast website Khatz recommends (they update it till this day)
 
 ## Books
 
@@ -242,6 +249,8 @@ Stream anime:
 - [Nyaa](https://nyaa.si/): you can probably find VNs here as well
 - [**visual novels disk**](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#): lots of visual novels
 - [**anime-sharing**](http://www.anime-sharing.com/forum/): This is a website filled with visual novels (and other media) in Japanese to download. Not all of the links to download them work, but plenty do, and it's worth giving a shot. Some links are NSFW
+- [**The asenheim project**](https://tss.asenheim.org/): here you can read some classic visual novels online. You can use Yomichan/Rikaikun to look up words and copy sentences from the text log and paste them into anki.
+
 
 ## Dictionaries
 
@@ -317,10 +326,32 @@ Digital dictionaries:
 - [**Anki decks**](https://www.mediafire.com/folder/p17g5uk4phb41/User_Uploaded_Anki_Decks):sentence bank mediafire it has even more stuff than britvsjapan
 - [**database of compound japanese verbs**](https://db4.ninjal.ac.jp/vvlexicon/db/): A database of compound Japanese verbs, has defintions of tons of words, ones that I couldnt find in regular dictionaries in english and in japanese
 - [**play japanese when silence**](https://www.youtube.com/watch?v=BUyzpLihfzE): Script to play sound when there is silence
+- [**edewakaru**](http://www.edewakaru.com/):pretty cool site that explains grammar concepts, vocabs and expressions with comics and example sentences (it's all in Japanese, I'm not sure if it's meant for kids or foreigners, most likely foreigners cause some of the stuff they explain should be obvious to natives, even children).
 
 ## NSFW
 - [**Some eroges**](http://dou.erokuni.net/)
 
-## Podcast
-- [**ひいきびいき**](http://hkbk.fm/)
-- [**まりもえお！**](http://marimoeo.seesaa.net/):podcast website Khatz recommends (they update it till this day)
+## Youtube channels
+- [**Try it**](https://www.youtube.com/channel/UCcj-cHmS0uD91MLjtdiN89Q): A channel with lots of school lessons for japanese people: math, physics, history, kanji and more
+- [**岡田斗司夫**](https://www.youtube.com/playlist?list=PL1TOJRTrkimL2_RoGQP7F6CdIdvWDOMSM): A bloke that analyses anime etc.
+
+## Android apps
+Here is a bunch of android manga applications, each one gives you at least one free issue a day. A number if the apps have content overlaps, so you could use them to continue reading a single story when you finish your daily allotment of points for one app, or you could read stuff separately and do one story a day of a particular series in order to develop a daily reading habit . **You need JAPANESE google play account for the download**.
+- [**ジャンプルーキー！**](https://play.google.com/store/apps/details?id=com.shonenjump.rookie)
+- [**ピッコマ**](https://play.google.com/store/apps/details?id=jp.kakao.piccoma)
+- [**マガポケ**](https://play.google.com/store/apps/details?id=jp.co.kodansha.android.magazinepocket)
+- [**マンガ ＵＰ！**](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp%3E)
+- [**マンガBANG！**](https://play.google.com/store/apps/details?id=com.mangabang)
+- [**マンガKING！**](https://play.google.com/store/apps/details?id=com.fuga.mangakingrevision.android)
+- [**マンガワン**]( https://play.google.com/store/apps/details?id=jp.co.comic.mangaone)
+- [**マンガ図書館Z**](https://play.google.com/store/apps/details?id=jp.co.jcomi.mangazapp)
+- [**少年ジャンプ＋ **](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpplus)
+- [**マンガZero**](https://play.google.com/store/apps/details?id=jp.inc.nagisa.mangapf)
+- [**pixivコミック **](https://play.google.com/store/apps/details?id=jp.pxv.android.manga)
+- [**ガンガンONLINE**](https://play.google.com/store/apps/details?id=com.ganganonline.ganganonline.a)
+- [**マンガPark**](https://play.google.com/store/apps/details?id=jp.co.hakusensha.mangapark)
+- [**マンガSTARS**](https://play.google.com/store/apps/details?id=asia.junglesky.mangastars.android)
+- [**マンガほっと**](https://play.google.com/store/apps/details?id=jp.co.nspictures.mangahot)
+- [**ONE PIECE 公式漫画アプリ**](https://play.google.com/store/apps/details?id=com.access_company.android.sh_onepiece)
+- [**NARUTO-ナルト- 公式漫画アプリ**](https://play.google.com/store/apps/details?id=com.access_company.android.sh_naruto)
+- [**ジョジョの奇妙な冒険 公式アプリ**](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jojo)
