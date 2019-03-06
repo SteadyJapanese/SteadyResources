@@ -159,6 +159,7 @@ Stream anime:
 - [jpsubbers drama subtitles](http://jpsubbers.web44.net/Japanese-Subtitles/): Index of a decent amount of drama subtitles. Click the directories that start with an `@` symbol and you can find folders sorted by year and season.
 - [Dramanote](http://www.dramanote.com/): not subtitles, but drama scripts, which you could still use for sentence mining
 - [JRPG scripts](https://www.reddit.com/r/LearnJapanese/comments/54haix/a_dump_of_jrpg_japanese_scripts/): scripts from a bunch of JRPGs, mainly Final Fantasy and Dragon Quest
+- [**Netflix jp subs**](https://mega.nz/#F!Yo8FhQBJ!Uoj0GbjA1RyiANp7NjHeVg)
 
 ## Manga
 
@@ -171,19 +172,19 @@ Stream anime:
 - [BookLive](https://booklive.jp/): Buy manga and books, there's some free manga on it too
 - [sokuyomi](https://sokuyomi.jp/): I think this site might have some free manga on it, not sure though
 - [Puboo](http://p.booklog.jp/books?ch=0&): some free books and manga in ebook formats
-- [A-Z manga](http://www.a-zmanga.net/): download manga that you can't find on nyaa
-- [GANMA!](https://ganma.jp/): Apparently is a mainstream manga website, you can also download it for your phone. Lots of ecchi stuff.
-- [s-manga](http://www.s-manga.net/)
-- [news.kodansha.co.jp/comics](http://news.kodansha.co.jp/comics)
-- [osoroshiya](https://osoroshiya.com/): spooky manga
+- [**A-Z manga**](http://www.a-zmanga.net/): download manga that you can't find on nyaa
+- [**GANMA!**](https://ganma.jp/): Apparently is a mainstream manga website, you can also download it for your phone. Lots of ecchi stuff.
+- [**s-manga**](http://www.s-manga.net/)
+- [**news.kodansha.co.jp/comics**](http://news.kodansha.co.jp/comics)
+- [**osoroshiya**](https://osoroshiya.com/): spooky manga
+- [**13dl**](http://13dl.net/): raw manga, novels, magazines etc
 
 ## Drama
 
 - [AvistaZ](https://avistaz.to): Private torrent tracker with a wide selection of asian media. Lots of hard to find movies and tv shows in good quality most of the time. Sometimes they have open registrations but it's normally invite only. Some people on the discord server might have invites if you ask nicely.
 - [Google drive](https://drive.google.com/drive/mobile/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE): Google drive folder full of drama. I think these are recorded straight from TV, so the file sizes are quite large relative to their length. Some of the files are password protected, ask in the Discord server if you want the password.
 - [Nyaa](https://nyaa.si/): Not as good for dramas as it is for anime and manga, but you can still find some dramas on there
-- [mhometheater](http://mhometheater.com/): lots of dubbed western drama
-- [VIKI](https://www.viki.com/explore?country=japan&type=series&language=ja): A small selection of drama. To turn off English subtitles and if you want Japanese subtitles, turn off learn mode in the video player options.
+- [**VIKI**](https://www.viki.com/explore?country=japan&type=series&language=ja): A small selection of drama. To turn off English subtitles and if you want Japanese subtitles, turn off learn mode in the video player options.
 
 ## TV Shows
 
@@ -204,11 +205,11 @@ Stream anime:
 - [JDownloader](http://jdownloader.org/) to download more than like 5GB a day or something
 - [AvistaZ](https://avistaz.to): Private torrent tracker with a wide selection of asian media. Lots of hard to find movies and tv shows in good quality most of the time. Sometimes they have open registrations but it's normally invite only. Some people on the discord server might have invites if you ask nicely.
 - [Nyaa](https://nyaa.si/): a torrent tracker that is primarily used for anime but has movies on it as well
-- [mhometheather](http://mhometheater.com/): A bunch of Japanese movies, and western movies with Japanese dubs.
-- [distantsunrise](http://distantsunrise.com/): This one has some horror movies with subs you can turn off.
-- [muryoueigadrama](https://muryoueigadrama.com/)
-- [muryoueiga](http://muryoueiga.site/)
-- [tissue-paper](https://tissue-paper.net/)
+- [**mhometheather**](http://mhometheater.com/): A bunch of Japanese movies, and western movies with Japanese dubs.
+- [**distantsunrise**](http://distantsunrise.com/): This one has some horror movies with subs you can turn off.
+- [**muryoueigadrama**](https://muryoueigadrama.com/)
+- [**muryoueiga**](http://muryoueiga.site/)
+- [**tissue-paper**](https://tissue-paper.net/)
 
 ## Audio
 
@@ -230,12 +231,13 @@ Stream anime:
 - [Convert Aozora Bunko to MOBI](https://www.reddit.com/r/LearnJapanese/comments/1n0b3f/convert_aozora_bunko_books_to_kindle_paperwhite/): follow this guide to convert Aozora Bunko format books into MOBI so you can put them on a kindle (or use [calibre](#tools) to convert them to something else)
 - [BookLive](https://booklive.jp/): you can buy ebooks here, not sure if there's much free stuff though
 - [Marxist Internet Archive](https://www.marxists.org/nihon/index.htm): I dunno, this was on the spreadsheet so I kept it
-- [yomou-syosetu](https://yomou.syosetu.com/): Some novels
+- [**yomou-syosetu**](https://yomou.syosetu.com/): Some novels
 
 
 ## Visual Novels
 - [Visual Novel Recommendations](https://docs.google.com/document/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub#id.unfw7eb41v3g): google doc full of information about a bunch of visual novels made by the visual novels subreddit I think
 - [Nyaa](https://nyaa.si/): you can probably find VNs here as well
+- [**visual novels disk**](https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#): lots of visual novels
 
 ## Dictionaries
 
@@ -303,13 +305,14 @@ Digital dictionaries:
 - [Premade subs2srs decks](http://japanesedecks.blogspot.de): Pre-made subs2srs decks. Useful if you can't be bothered downloading properly timed subs, although you should still make your own cards, just use the pictures and sentences from these decks
 - [Japanese Discord Servers](https://discha.net/): invite links to lots of Japanese discord servers
 ## My own
-- [FNN-NEWS](http://www.nhk.or.jp/kokokoza/)
-- [NHK-NEWS](https://www.nhk.or.jp/)
-- [Sanseido definitions](https://github.com/weirdalsuperfan/Sanseido-Definitions): automagically fill in definitions for sentence cards
+- [**FNN-NEWS**](http://www.nhk.or.jp/kokokoza/)
+- [**NHK-NEWS**](https://www.nhk.or.jp/)
+- [**Sanseido definitions**](https://github.com/weirdalsuperfan/Sanseido-Definitions): automagically fill in definitions for sentence cards
+- [**jpop80ss**](http://jpop80ss.blogspot.com/): asian music
 
 ## NSFW
-- [Some eroges](http://dou.erokuni.net/)
+- [**Some eroges**](http://dou.erokuni.net/)
 
 ## Podcast
-- [ひいきびいき](http://hkbk.fm/)
-- [まりもえお！](http://marimoeo.seesaa.net/):podcast website Khatz recommends (they update it till this day)
+- [**ひいきびいき**](http://hkbk.fm/)
+- [**まりもえお！**](http://marimoeo.seesaa.net/):podcast website Khatz recommends (they update it till this day)
